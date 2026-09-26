@@ -1,0 +1,14 @@
+C:\Users\allax\OneDrive\Desktop\Lab_1\Lab_1\bin\Debug\net10.0\Lab_1.exe
+C:\Users\allax\OneDrive\Desktop\Lab_1\Lab_1\bin\Debug\net10.0\Lab_1.deps.json
+C:\Users\allax\OneDrive\Desktop\Lab_1\Lab_1\bin\Debug\net10.0\Lab_1.runtimeconfig.json
+C:\Users\allax\OneDrive\Desktop\Lab_1\Lab_1\bin\Debug\net10.0\Lab_1.dll
+C:\Users\allax\OneDrive\Desktop\Lab_1\Lab_1\bin\Debug\net10.0\Lab_1.pdb
+C:\Users\allax\OneDrive\Desktop\Lab_1\Lab_1\obj\Debug\net10.0\Lab_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allax\OneDrive\Desktop\Lab_1\Lab_1\obj\Debug\net10.0\Lab_1.AssemblyInfoInputs.cache
+C:\Users\allax\OneDrive\Desktop\Lab_1\Lab_1\obj\Debug\net10.0\Lab_1.AssemblyInfo.cs
+C:\Users\allax\OneDrive\Desktop\Lab_1\Lab_1\obj\Debug\net10.0\Lab_1.csproj.CoreCompileInputs.cache
+C:\Users\allax\OneDrive\Desktop\Lab_1\Lab_1\obj\Debug\net10.0\Lab_1.dll
+C:\Users\allax\OneDrive\Desktop\Lab_1\Lab_1\obj\Debug\net10.0\refint\Lab_1.dll
+C:\Users\allax\OneDrive\Desktop\Lab_1\Lab_1\obj\Debug\net10.0\Lab_1.pdb
+C:\Users\allax\OneDrive\Desktop\Lab_1\Lab_1\obj\Debug\net10.0\Lab_1.genruntimeconfig.cache
+C:\Users\allax\OneDrive\Desktop\Lab_1\Lab_1\obj\Debug\net10.0\ref\Lab_1.dll
