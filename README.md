@@ -1,2 +1,3 @@
 # Pivovarov_CSE-25-2B_OOP
-Repository for OOP-labs
+
+Object-Oriented Programming Laboratory Assignments (3rd Semester)
