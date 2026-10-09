@@ -1,0 +1,15 @@
+C:\Users\allax\OneDrive\Desktop\Лабы_ооп\Lab_3\Lab_3\bin\Debug\net10.0\Lab_3.exe
+C:\Users\allax\OneDrive\Desktop\Лабы_ооп\Lab_3\Lab_3\bin\Debug\net10.0\Lab_3.deps.json
+C:\Users\allax\OneDrive\Desktop\Лабы_ооп\Lab_3\Lab_3\bin\Debug\net10.0\Lab_3.runtimeconfig.json
+C:\Users\allax\OneDrive\Desktop\Лабы_ооп\Lab_3\Lab_3\bin\Debug\net10.0\Lab_3.dll
+C:\Users\allax\OneDrive\Desktop\Лабы_ооп\Lab_3\Lab_3\bin\Debug\net10.0\Lab_3.pdb
+C:\Users\allax\OneDrive\Desktop\Лабы_ооп\Lab_3\Lab_3\obj\Debug\net10.0\Lab_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allax\OneDrive\Desktop\Лабы_ооп\Lab_3\Lab_3\obj\Debug\net10.0\Lab_3.AssemblyInfoInputs.cache
+C:\Users\allax\OneDrive\Desktop\Лабы_ооп\Lab_3\Lab_3\obj\Debug\net10.0\Lab_3.AssemblyInfo.cs
+C:\Users\allax\OneDrive\Desktop\Лабы_ооп\Lab_3\Lab_3\obj\Debug\net10.0\Lab_3.csproj.CoreCompileInputs.cache
+C:\Users\allax\OneDrive\Desktop\Лабы_ооп\Lab_3\Lab_3\obj\Debug\net10.0\Lab_3.dll
+C:\Users\allax\OneDrive\Desktop\Лабы_ооп\Lab_3\Lab_3\obj\Debug\net10.0\refint\Lab_3.dll
+C:\Users\allax\OneDrive\Desktop\Лабы_ооп\Lab_3\Lab_3\obj\Debug\net10.0\Lab_3.pdb
+C:\Users\allax\OneDrive\Desktop\Лабы_ооп\Lab_3\Lab_3\obj\Debug\net10.0\Lab_3.genruntimeconfig.cache
+C:\Users\allax\OneDrive\Desktop\Лабы_ооп\Lab_3\Lab_3\obj\Debug\net10.0\ref\Lab_3.dll
+C:\Users\allax\OneDrive\Desktop\Лабы_ооп\Lab_3\Lab_3\obj\Debug\net10.0\Lab_3.csproj.Up2Date
