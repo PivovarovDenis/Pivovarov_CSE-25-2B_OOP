@@ -1,0 +1,15 @@
+C:\Users\allax\OneDrive\Desktop\Лабы_ооп\Lab_5\Lab_5\bin\Debug\net10.0\Lab_5.exe
+C:\Users\allax\OneDrive\Desktop\Лабы_ооп\Lab_5\Lab_5\bin\Debug\net10.0\Lab_5.deps.json
+C:\Users\allax\OneDrive\Desktop\Лабы_ооп\Lab_5\Lab_5\bin\Debug\net10.0\Lab_5.runtimeconfig.json
+C:\Users\allax\OneDrive\Desktop\Лабы_ооп\Lab_5\Lab_5\bin\Debug\net10.0\Lab_5.dll
+C:\Users\allax\OneDrive\Desktop\Лабы_ооп\Lab_5\Lab_5\bin\Debug\net10.0\Lab_5.pdb
+C:\Users\allax\OneDrive\Desktop\Лабы_ооп\Lab_5\Lab_5\obj\Debug\net10.0\Lab_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allax\OneDrive\Desktop\Лабы_ооп\Lab_5\Lab_5\obj\Debug\net10.0\Lab_5.AssemblyInfoInputs.cache
+C:\Users\allax\OneDrive\Desktop\Лабы_ооп\Lab_5\Lab_5\obj\Debug\net10.0\Lab_5.AssemblyInfo.cs
+C:\Users\allax\OneDrive\Desktop\Лабы_ооп\Lab_5\Lab_5\obj\Debug\net10.0\Lab_5.csproj.CoreCompileInputs.cache
+C:\Users\allax\OneDrive\Desktop\Лабы_ооп\Lab_5\Lab_5\obj\Debug\net10.0\Lab_5.dll
+C:\Users\allax\OneDrive\Desktop\Лабы_ооп\Lab_5\Lab_5\obj\Debug\net10.0\refint\Lab_5.dll
+C:\Users\allax\OneDrive\Desktop\Лабы_ооп\Lab_5\Lab_5\obj\Debug\net10.0\Lab_5.pdb
+C:\Users\allax\OneDrive\Desktop\Лабы_ооп\Lab_5\Lab_5\obj\Debug\net10.0\Lab_5.genruntimeconfig.cache
+C:\Users\allax\OneDrive\Desktop\Лабы_ооп\Lab_5\Lab_5\obj\Debug\net10.0\ref\Lab_5.dll
+C:\Users\allax\OneDrive\Desktop\Лабы_ооп\Lab_5\Lab_5\obj\Debug\net10.0\Lab_5.csproj.Up2Date
